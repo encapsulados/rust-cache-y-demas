@@ -15,6 +15,6 @@
 // insertar("cuba",   7)
 // insertar("ramona", 4)
 // insertar("nube",   9)
-// obtener("cuba")   -> -1 // La clave 1 fue eliminada porque la caché estaba llena.
-// obtener("ramona") -> 4  // La clave 2 sigue en la caché.
-// obtener("nube")   -> 9  // La clave 3 sigue en la caché.
+// obtener("cuba")   -> -1 // La clave "cuba" fue eliminada porque la caché estaba llena.
+// obtener("ramona") -> 4  // La clave "ramona" sigue en la caché.
+// obtener("nube")   -> 9  // La clave "nube" sigue en la caché.
